@@ -7,7 +7,7 @@ entries:
         url: http://github.com/hyf20010101/
       - title: "<a href='/feed.xml'>rss feed</a>"
       - title: test
-        url: /posts/closet.md
+        url: /_posts/closet.md
 
   - title: Archives
     post_list: true
