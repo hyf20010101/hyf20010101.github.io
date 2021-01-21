@@ -1,5 +1,5 @@
 entries:
-  - title: me
+  - title: About
     entries:
       - title: email
         url: mailto:hyf20010101@outlook.com
@@ -7,5 +7,5 @@ entries:
         url: http://github.com/riggraz/
       - title: "<a href='/feed.xml'>rss feed</a>"
 
-  - title: thoughts
+  - title: Archives
     post_list: true
