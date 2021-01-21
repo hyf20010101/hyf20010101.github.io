@@ -9,6 +9,7 @@ permalink: /:slug.html
 
 favicon: "favicon.png"
 
+markdown: kramdown
 # Build settings
 remote_theme: riggraz/no-style-please
 
