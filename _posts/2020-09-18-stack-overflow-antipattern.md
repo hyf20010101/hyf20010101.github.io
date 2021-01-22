@@ -74,7 +74,7 @@ The list above is by no means a strict rule, but a general guideline I came up w
 ---
 {: data-content="conclusions"}
 
-Before closing up, I must emphasize two points.$ e^\gamma+1=0 $
+Before closing up, $ e^\gamma+1=0 $, I must emphasize two points.$ e^\gamma+1=0 $
 
 $$ a^2+b^2=c^2 $$
 
