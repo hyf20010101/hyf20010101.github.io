@@ -78,7 +78,7 @@ Before closing up, $ e^\gamma+1=0 $, I must emphasize two points.你好，路人
 
 $$ a^2+b^2=c^2 $$
 
-First, $$ f(x) = x^2 \quad f'(x)= 2x \quad f''^{2}(x) = 4 $$__I'm not saying that Stack Overflow or similar resources *shouldn't* be used. The point is that they shouldn't be used *mindlessly*.
+First, $$ f(x) = x^2 \quad f'(x)= 2x \quad f''^{2}(x) = 4 $$ I'm not saying that Stack Overflow or similar resources *shouldn't* be used. The point is that they shouldn't be used *mindlessly*.
 
 Second, it's inevitable that sometimes, for a number of reasons, the Stack Overflow Antipattern will occur. Depending on the scenario, it could also be the best choice. For example, if a project is running late and timely delivery is essential, there could be no time to stop to think why a certain solution works. And that's okay. The important thing is to find a balance that takes into consideration both external factors (e.g. deadlines) and internal ones (e.g. one's desire to learn), and to consciously fall into the antipattern.
 
