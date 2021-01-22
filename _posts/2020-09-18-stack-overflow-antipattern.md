@@ -60,15 +60,15 @@ In particular, I believe there are three broadly-defined phases in which one sho
 2. During the search. The solution found should be at least clear enough to be sure it can solve the problem at hand (possibly without causing other problems!).
 3. After the solution proved to work. This is the time to pause again and synthesize problem and solution together. Everything should be clear enough to remember it afterwards (or at least remember how to find the solution again), in order to solve the problem faster if it occurs again. This will save time in the long run.
 
-The list above is by no means a strict rule, but a general guideline I came up with while writing the article. The heart of the matter is that one should think a lot before and after searching the web.{%raw%}/[ e^\gamma+1=0 /]{%endraw%}
+The list above is by no means a strict rule, but a general guideline I came up with while writing the article. The heart of the matter is that one should think a lot before and after searching the web.{%raw%}$$ e^\gamma+1=0 $${%endraw%}
 
 ---
 {: data-content="conclusions"}
 
 Before closing up, I must emphasize two points.
-{%raw%}
-$ a^2+b^2=c^2 $
-{%endraw%}
+
+$$ a^2+b^2=c^2 $$
+
 First, I'm not saying that Stack Overflow or similar resources *shouldn't* be used. The point is that they shouldn't be used *mindlessly*.
 
 Second, it's inevitable that sometimes, for a number of reasons, the Stack Overflow Antipattern will occur. Depending on the scenario, it could also be the best choice. For example, if a project is running late and timely delivery is essential, there could be no time to stop to think why a certain solution works. And that's okay. The important thing is to find a balance that takes into consideration both external factors (e.g. deadlines) and internal ones (e.g. one's desire to learn), and to consciously fall into the antipattern.
