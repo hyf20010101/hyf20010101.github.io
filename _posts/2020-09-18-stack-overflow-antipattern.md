@@ -76,7 +76,7 @@ The list above is by no means a strict rule, but a general guideline I came up w
 
 Before closing up, $ e^\gamma+1=0 $, I must emphasize two points.你好，路人。こんにちは～
 
-$$ a^2+b^2=c^4 $$
+$$ a^2+b^2=c^5 $$
 
 First, $$ f(x) = x^2 \quad f'(x)= 2x \quad f''^{2}(x) = 4 $$, I'm not saying that Stack Overflow or similar resources *shouldn't* be used. The point is that they shouldn't be used *mindlessly*.
 
