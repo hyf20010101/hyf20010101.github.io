@@ -67,7 +67,7 @@ The list above is by no means a strict rule, but a general guideline I came up w
 
 Before closing up, I must emphasize two points.
 {%raw%}
-\[a^2+b^2=c^2\]
+$$ a^2+b^2=c^2 $$
 {%endraw%}
 First, I'm not saying that Stack Overflow or similar resources *shouldn't* be used. The point is that they shouldn't be used *mindlessly*.
 
