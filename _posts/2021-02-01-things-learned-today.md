@@ -26,12 +26,12 @@ I must begin study!
 ## [probabilities](#probabilities)
 
 We have $a^2+b^2=c^2$, $E=mc^2$.\
-So we get:
+So we get:\
 $$\sum\limits _{i=1}^n i\quad \prod\limits _{i=1}^n$$
 
 ## [English words](#English-words)
 
-Hello World!
+Hello World!\
 AlphaGo n. 阿尔法狗
 
 ## [Japanese](#Japanese)
