@@ -16,8 +16,8 @@ category: example2
 </head>
 
 Good good study, day day up.\
-This is a template, testing the syntax. OK, let's go. \
-olaolaolaolaolaolaolaolaolaolaolaola Why
+This is a template, testing the syntax. OK, let's go. 
+olaolaolaolaolaolaolaolaolaolaolaola Whyyy
 
 - [Probabilities](#probabilities)
 - [English words](#english-words)
