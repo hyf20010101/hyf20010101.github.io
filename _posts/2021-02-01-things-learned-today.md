@@ -1,3 +1,14 @@
+<head>
+    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({
+            tex2jax: {
+            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+            inlineMath: [['$','$']]
+            }
+        });
+    </script>
+</head>
 ---
 layout: post
 category: example2
@@ -6,7 +17,6 @@ category: example2
 Good good study, day day up.\
 This is a template, testing the syntax.
 
-## What I learned today
 - [Probabilities](#probabilities)
 - [English words](#English-words)
 - [Japanese](#Japanese)
