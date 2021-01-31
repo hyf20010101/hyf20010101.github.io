@@ -1,3 +1,8 @@
+
+---
+layout: post
+category: example2
+
 <head>
     <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
     <script type="text/x-mathjax-config">
@@ -10,9 +15,6 @@
     </script>
 </head>
 ---
-layout: post
-category: example2
----
 
 Good good study, day day up.\
 This is a template, testing the syntax. OK, let's go. olaolaolaolaolaolaolaolaolaolaolaola
@@ -21,7 +23,7 @@ This is a template, testing the syntax. OK, let's go. olaolaolaolaolaolaolaolaol
 - [English words](#English-words)
 - [Japanese](#Japanese)
 
-I must begin study!
+I must begin to study!
 
 ## [probabilities](#probabilities)
 
@@ -38,3 +40,15 @@ AlphaGo n. 阿尔法狗
 
 こんにちは～\
 日本語難しいね
+
+1\
+2\
+3\
+4\
+5\
+6\
+7\
+8\
+9\
+10\
+testing
