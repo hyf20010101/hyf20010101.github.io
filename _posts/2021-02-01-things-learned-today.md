@@ -15,7 +15,7 @@ category: example2
 ---
 
 Good good study, day day up.\
-This is a template, testing the syntax. OK, let's go.
+This is a template, testing the syntax. OK, let's go. olaolaolaolaolaolaolaolaolaolaolaola
 
 - [Probabilities](#probabilities)
 - [English words](#English-words)
