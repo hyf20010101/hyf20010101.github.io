@@ -1,11 +1,10 @@
 entries:
   - title: About
     entries:
-      - title: test
+      - title: Profile
         url: /README.md
-      - title: email
+      - title: Email
         url: mailto:hyf20010101@outlook.com
-      - title: "<a href='/feed.xml'>rss feed</a>"
 
   - title: Archives
     post_list: true
