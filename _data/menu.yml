@@ -1,13 +1,11 @@
 entries:
   - title: About
     entries:
-      - title: email
-        url: mailto:hyf20010101@outlook.com
-      - title: github
-        url: http://github.com/hyf20010101/
-      - title: "<a href='/feed.xml'>rss feed</a>"
       - title: test
         url: /README.md
+      - title: email
+        url: mailto:hyf20010101@outlook.com
+      - title: "<a href='/feed.xml'>rss feed</a>"
 
   - title: Archives
     post_list: true
