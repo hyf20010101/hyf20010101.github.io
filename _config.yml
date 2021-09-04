@@ -23,7 +23,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-code.language-java:
+code.language-matlab:
   background-color: #e5e5e5;
 
 
